@@ -1,0 +1,298 @@
+{
+    "01.xml": {
+        "annotation": {
+            "filename": "01.jpg",
+            "folder": "images",
+            "object": {
+                "bndbox": {
+                    "xmax": "601",
+                    "xmin": "195",
+                    "ymax": "436",
+                    "ymin": "28"
+                },
+                "difficult": "0",
+                "name": "cat",
+                "pose": "Unspecified",
+                "truncated": "0"
+            },
+            "path": "output\\01.jpg",
+            "segmented": "0",
+            "size": {
+                "depth": "3",
+                "height": "449",
+                "width": "800"
+            },
+            "source": {
+                "database": "Unknown"
+            }
+        }
+    },
+    "02.xml": {
+        "annotation": {
+            "filename": "02.jpg",
+            "folder": "images",
+            "object": [
+                {
+                    "bndbox": {
+                        "xmax": "344",
+                        "xmin": "79",
+                        "ymax": "396",
+                        "ymin": "107"
+                    },
+                    "difficult": "0",
+                    "name": "dog",
+                    "pose": "Unspecified",
+                    "truncated": "0"
+                },
+                {
+                    "bndbox": {
+                        "xmax": "603",
+                        "xmin": "392",
+                        "ymax": "368",
+                        "ymin": "37"
+                    },
+                    "difficult": "0",
+                    "name": "bike",
+                    "pose": "Unspecified",
+                    "truncated": "0"
+                },
+                {
+                    "bndbox": {
+                        "xmax": "603",
+                        "xmin": "429",
+                        "ymax": "250",
+                        "ymin": "0"
+                    },
+                    "difficult": "0",
+                    "name": "person",
+                    "pose": "Unspecified",
+                    "truncated": "1"
+                }
+            ],
+            "path": "output\\02.jpg",
+            "segmented": "0",
+            "size": {
+                "depth": "3",
+                "height": "450",
+                "width": "675"
+            },
+            "source": {
+                "database": "Unknown"
+            }
+        }
+    },
+    "03.xml": {
+        "annotation": {
+            "filename": "03.jpg",
+            "folder": "images",
+            "object": [
+                {
+                    "bndbox": {
+                        "xmax": "482",
+                        "xmin": "439",
+                        "ymax": "127",
+                        "ymin": "81"
+                    },
+                    "difficult": "0",
+                    "name": "ball",
+                    "pose": "Unspecified",
+                    "truncated": "0"
+                },
+                {
+                    "bndbox": {
+                        "xmax": "449",
+                        "xmin": "48",
+                        "ymax": "354",
+                        "ymin": "55"
+                    },
+                    "difficult": "0",
+                    "name": "dog",
+                    "pose": "Unspecified",
+                    "truncated": "0"
+                }
+            ],
+            "path": "output\\03.jpg",
+            "segmented": "0",
+            "size": {
+                "depth": "3",
+                "height": "421",
+                "width": "637"
+            },
+            "source": {
+                "database": "Unknown"
+            }
+        }
+    },
+    "04.xml": {
+        "annotation": {
+            "filename": "04.jpg",
+            "folder": "images",
+            "object": {
+                "bndbox": {
+                    "xmax": "658",
+                    "xmin": "390",
+                    "ymax": "405",
+                    "ymin": "261"
+                },
+                "difficult": "0",
+                "name": "car",
+                "pose": "Unspecified",
+                "truncated": "0"
+            },
+            "path": "output\\04.jpg",
+            "segmented": "0",
+            "size": {
+                "depth": "3",
+                "height": "450",
+                "width": "720"
+            },
+            "source": {
+                "database": "Unknown"
+            }
+        }
+    },
+    "05.xml": {
+        "annotation": {
+            "filename": "05.jpg",
+            "folder": "images",
+            "object": [
+                {
+                    "bndbox": {
+                        "xmax": "550",
+                        "xmin": "505",
+                        "ymax": "388",
+                        "ymin": "342"
+                    },
+                    "difficult": "0",
+                    "name": "ball",
+                    "pose": "Unspecified",
+                    "truncated": "0"
+                },
+                {
+                    "bndbox": {
+                        "xmax": "591",
+                        "xmin": "446",
+                        "ymax": "273",
+                        "ymin": "89"
+                    },
+                    "difficult": "0",
+                    "name": "person",
+                    "pose": "Unspecified",
+                    "truncated": "0"
+                },
+                {
+                    "bndbox": {
+                        "xmax": "491",
+                        "xmin": "231",
+                        "ymax": "395",
+                        "ymin": "110"
+                    },
+                    "difficult": "0",
+                    "name": "person",
+                    "pose": "Unspecified",
+                    "truncated": "0"
+                },
+                {
+                    "bndbox": {
+                        "xmax": "165",
+                        "xmin": "41",
+                        "ymax": "388",
+                        "ymin": "77"
+                    },
+                    "difficult": "0",
+                    "name": "person",
+                    "pose": "Unspecified",
+                    "truncated": "0"
+                }
+            ],
+            "path": "output\\05.jpg",
+            "segmented": "0",
+            "size": {
+                "depth": "3",
+                "height": "450",
+                "width": "660"
+            },
+            "source": {
+                "database": "Unknown"
+            }
+        }
+    },
+    "06.xml": {
+        "annotation": {
+            "filename": "06.jpg",
+            "folder": "images",
+            "object": [
+                {
+                    "bndbox": {
+                        "xmax": "164",
+                        "xmin": "43",
+                        "ymax": "339",
+                        "ymin": "226"
+                    },
+                    "difficult": "0",
+                    "name": "person",
+                    "pose": "Unspecified",
+                    "truncated": "0"
+                },
+                {
+                    "bndbox": {
+                        "xmax": "459",
+                        "xmin": "400",
+                        "ymax": "280",
+                        "ymin": "148"
+                    },
+                    "difficult": "0",
+                    "name": "person",
+                    "pose": "Unspecified",
+                    "truncated": "0"
+                },
+                {
+                    "bndbox": {
+                        "xmax": "374",
+                        "xmin": "329",
+                        "ymax": "282",
+                        "ymin": "233"
+                    },
+                    "difficult": "0",
+                    "name": "person",
+                    "pose": "Unspecified",
+                    "truncated": "0"
+                },
+                {
+                    "bndbox": {
+                        "xmax": "415",
+                        "xmin": "386",
+                        "ymax": "276",
+                        "ymin": "227"
+                    },
+                    "difficult": "0",
+                    "name": "person",
+                    "pose": "Unspecified",
+                    "truncated": "0"
+                },
+                {
+                    "bndbox": {
+                        "xmax": "477",
+                        "xmin": "445",
+                        "ymax": "280",
+                        "ymin": "215"
+                    },
+                    "difficult": "0",
+                    "name": "person",
+                    "pose": "Unspecified",
+                    "truncated": "0"
+                }
+            ],
+            "path": "output\\06.jpg",
+            "segmented": "0",
+            "size": {
+                "depth": "3",
+                "height": "427",
+                "width": "640"
+            },
+            "source": {
+                "database": "Unknown"
+            }
+        }
+    }
+}
