@@ -105,3 +105,6 @@ for file in os.scandir(args.xmldir):
 # JSON-dump each annotation in a single file, using the old file name as key
 with open(os.path.join(args.outputdir, 'annotations.json'), 'w') as json_out:
     json.dump(result_dict, json_out, sort_keys=True, indent=4)
+
+# TODO this was not the required output format, it is needed to pull COCO categories
+#  and map the Pascal VOC categories onto these
